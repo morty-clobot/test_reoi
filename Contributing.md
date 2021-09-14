@@ -3,7 +3,7 @@ Contributing to clobot
 
 **Thanks for your attention to clobot’s robot and open-source packages.**
 
-**If you should know about clober, RMF(Robotics Middleware Framework), read this documentation.**
+**For more details about clober and RMF(Robotics Middleware Framework), read this documentation.**
 
 * [Clober Manual](https://app.gitbook.com/@clobot-git/s/clober-manual/)
 
